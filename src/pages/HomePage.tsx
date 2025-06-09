@@ -143,7 +143,7 @@ const HomePage: React.FC = () => {
                     Unified Mentor Intern
                   </span>
                   <span className={`text-sm px-3 py-1 rounded-full ${darkMode ? 'bg-green-900/30 text-green-400' : 'bg-green-100 text-green-700'}`}>
-                    NxtWave Student
+                    NxtWave Trainee
                   </span>
                 </div>
                 <p className={`${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
