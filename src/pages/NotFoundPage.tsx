@@ -11,9 +11,9 @@ const NotFoundPage: React.FC = () => {
       <div className={`text-center p-8 rounded-lg ${darkMode ? 'bg-gray-800' : 'bg-white'} shadow-lg max-w-md mx-auto`}>
         <AlertCircle className={`h-20 w-20 mx-auto mb-6 ${darkMode ? 'text-yellow-400' : 'text-yellow-500'}`} />
         <h1 className={`text-4xl font-bold mb-4 ${darkMode ? 'text-white' : 'text-gray-800'}`}>404</h1>
-        <h2 className={`text-2xl font-semibold mb-4 ${darkMode ? 'text-white' : 'text-gray-800'}`}>Page Not Found</h2>
+        <h2 className={`text-2xl font-semibold mb-4 ${darkMode ? 'text-white' : 'text-gray-800'}`}>It will updated soon...</h2>
         <p className={`mb-8 ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
-          The page you're looking for doesn't exist or has been moved.
+          The page you're looking....
         </p>
         <Link 
           to="/" 
