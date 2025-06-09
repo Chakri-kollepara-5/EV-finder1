@@ -11,8 +11,8 @@ interface UserContextType {
 
 const defaultUser: UserProfile = {
   id: '1',
-  name: 'Demo User',
-  email: 'demo@example.com',
+  name: 'kollepara chakravarthi',
+  email: 'chakri@example.com',
   preferredConnectorTypes: ['Type 2', 'CCS'],
   favoriteBunks: [],
   chargingHistory: [],
